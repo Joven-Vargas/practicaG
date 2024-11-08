@@ -1,0 +1,1 @@
+todo depende de que parte del repositorio quieres tomar si desde el master para todos los contenidos de las ramas o sin desde las ramas sacar el contenido único de cada una 
