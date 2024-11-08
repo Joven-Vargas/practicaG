@@ -1,0 +1,5 @@
+Concepto de versionamiento 
+El versionamiento en Git es el proceso de gestionar los cambios en el código fuente o en cualquier archivo de un proyecto a lo largo del tiempo. Git es un sistema de control de versiones distribuidas que permite rastrear.
+
+
+Isaac Vargas---
