@@ -1,0 +1,19 @@
+¿Qué significa POO?
+
+¿Qué es un objeto?
+
+¿Qué es una clase?
+
+¿Para qué sirve una clase?
+
+¿Qué es un atributo?
+
+¿Qué es un método?
+
+¿Qué es la herencia?
+
+¿Qué hace un constructor?
+
+¿Qué es una instancia?
+
+¿Qué es la encapsulación?
