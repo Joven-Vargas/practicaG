@@ -1,19 +1,20 @@
-¿Qué significa POO?
-
-¿Qué es un objeto?
-
-¿Qué es una clase?
-
-¿Para qué sirve una clase?
-
-¿Qué es un atributo?
-
-¿Qué es un método?
-
-¿Qué es la herencia?
-
-¿Qué hace un constructor?
-
-¿Qué es una instancia?
-
-¿Qué es la encapsulación?
+1.¿Qué significa POO?
+G=La Programación Orientada a Objetos (POO) es un paradigma de programación que organiza el software en torno a objetos en lugar de funciones y lógica. Los objetos son instancias de clases, que pueden contener tanto datos (en forma de campos o atributos) como métodos (funciones que operan sobre esos datos).
+2.¿Qué es un objeto?
+G=Un objeto es una instancia de una clase. Representa una entidad en el programa que tiene un estado, definido por sus atributos, y un comportamiento, definido por sus métodos.
+3.¿Qué es una clase?
+G=Una clase es un modelo o plantilla que define las propiedades (atributos) y comportamientos (métodos) de un conjunto de objetos. Actúa como un plano a partir del cual se pueden crear instancias, conocidas como objetos.
+4.¿Para qué sirve una clase?
+G=Una clase en la Programación Orientada a Objetos (POO) sirve como un plano o plantilla para crear objetos. Es un componente fundamental que define las características y comportamientos que los objetos de esa clase tendrán. Aquí te explico sus principales propósitos y beneficios:
+5.¿Qué es un atributo?
+G=Los atributos representan el estado o los datos de un objeto
+6.¿Qué es un método?
+G=Los métodos operan sobre los datos de un objeto, es decir, sus atributos, y pueden modificar el estado del objeto o realizar acciones específicas.
+7.¿Qué es la herencia?
+G=La herencia facilita la reutilización de código y la creación de jerarquías de clases que reflejan relaciones del mundo real.
+8.¿Qué hace un constructor?
+G=El constructor se encarga de asignar valores iniciales a los atributos del objeto y de realizar cualquier configuración necesaria.
+9.¿Qué es una instancia?
+G=na instancia es un ejemplar individual de esa clase con valores específicos asignados a sus atributos.
+10¿Qué es la encapsulación?
+G=Este concepto ayuda a proteger la integridad de los datos y a ocultar la complejidad interna de los objetos, permitiendo una interacción más segura y controlada.
